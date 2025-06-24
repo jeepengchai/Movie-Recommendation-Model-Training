@@ -52,3 +52,7 @@ To run the model training scripts:
 Our comparative analysis indicates that the *NCF Model 5* configuration consistently achieves superior performance in terms of both HR@10 and NDCG@10 across different datasets, significantly outperforming DAE and SVD benchmarks. This model's ability to learn complex non-linear user-item relationships proves highly effective for generating high-quality, accurately ranked recommendations.
 
 For detailed performance figures and visualizations, please refer to the evaluation sections within the Jupyter notebooks.
+
+## ✍️ Author
+
+**Jee Peng Chai (79639)**
